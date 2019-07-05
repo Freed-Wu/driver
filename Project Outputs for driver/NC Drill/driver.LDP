@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\User\Documents\Individual\Competitions\Electronics\Freescale\Works\Beacon\Hardwares\driver\src\driver.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=driver-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=driver-slotholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=driver-rectholes.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,6 @@
+"Net","Name","X Coord","Y Coord","Side","Hole Size","Type"
+"PWM2","lF1-3","-15mil","1955mil","Top","39.37mil","Through hole"
+"PWM1","lF1-2","-115mil","1955mil","Top","39.37mil","Through hole"
+"3V3","lF1-1","-215mil","1955mil","Top","39.37mil","Through hole"
+"PWM3","lF1-4","85mil","1955mil","Top","39.37mil","Through hole"
+"PWM4","lF1-5","185mil","1955mil","Top","39.37mil","Through hole"
