@@ -1,7 +1,8 @@
 ## PrjPCB
 *.PrjPCBStructure
-History/
-Project Logs for [A-Za-z_0-9]*/
+
+## PrjMbd
+*.PrjMbdStructure
 
 ## IntLib
 *.LIBPKG
@@ -18,5 +19,7 @@ Project Logs for [A-Za-z_0-9]*/
 *.html
 
 ## Others
+History/
+Project Logs for [A-Za-z_0-9]*/
 __Previews/
 *.Annotation
