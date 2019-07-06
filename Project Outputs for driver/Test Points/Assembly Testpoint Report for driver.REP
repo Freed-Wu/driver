@@ -1,22 +1,22 @@
-Error Report for  - Users\WUZHEN~1\AppData\Local\Temp\ProC154.tmp
-2019/7/6 7:07:45
+Error Report for  - Users\WUZHEN~1\AppData\Local\Temp\Pro381.tmp
+2019/7/6 20:17:24
 
 Warning pad shape change for U5-2 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
-Warning pad shape change for U4-2 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
-Warning pad shape change for U3-2 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
 Warning pad shape change for U2-2 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
-Warning pad shape change for U5-3 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
+Warning pad shape change for U3-2 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
+Warning pad shape change for U4-2 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
 Warning pad shape change for U5-1 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
-Warning pad shape change for U4-1 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
-Warning pad shape change for U4-3 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
-Warning pad shape change for U3-1 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
-Warning pad shape change for U3-3 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
+Warning pad shape change for U5-3 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
 Warning pad shape change for U2-1 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
 Warning pad shape change for U2-3 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
+Warning pad shape change for U3-1 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
+Warning pad shape change for U3-3 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
+Warning pad shape change for U4-1 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
+Warning pad shape change for U4-3 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
 Warning pad shape change for U5-4 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
-Warning pad shape change for U4-4 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
-Warning pad shape change for U3-4 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
 Warning pad shape change for U2-4 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
+Warning pad shape change for U3-4 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
+Warning pad shape change for U4-4 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
 Warning pad shape change for D1-2 from octagonal 55mil,50mil to rounded 50mil,50mil
 Warning pad shape change for U2-8 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
 Component Designator MOTOR 1 too long.
@@ -29,8 +29,8 @@ Warning pad shape change for D3-2 from octagonal 55mil,50mil to rounded 50mil,50
 Warning pad shape change for U4-8 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
 Component Designator MOTOR 2 too long.
 Warning pad shape change for U4-6 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
-Warning pad shape change for U5-8 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
 Warning pad shape change for D4-2 from octagonal 55mil,50mil to rounded 50mil,50mil
+Warning pad shape change for U5-8 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
 Component Designator MOTOR 2 too long.
 Warning pad shape change for U5-6 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
 Warning pad shape change for U2-7 from rounded 27.559mil,98.425mil to rectangular 27.559mil,70.866mil
