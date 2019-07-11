@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: driver.PcbDoc   2019/7/7  15:51:33
+NCDrill File Report For: driver.PcbDoc   2019/7/12  0:42:32
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -10,12 +10,12 @@ ASCII RectHoles File : driver-RectHoles.TXT
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      20mil (0.5mm)                                             Rectangle         3         PTH        0.00inch (0.00mm)
-T2      20mil (0.508mm)                                           Round             7         PTH        0.00inch (0.00mm)
+T2      20mil (0.508mm)                                           Round             11        PTH        0.00inch (0.00mm)
 T3      26mil (0.65mm)                                            Slot              2         PTH        0.00inch (0.00mm)
 T4      39mil (1mm)                                               Round             27        PTH        0.00inch (0.00mm)
 T5      59mil (1.5mm)                                             Round             6         PTH        0.00inch (0.00mm)
 T6      118mil (3mm)                                              Round             6         PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              51
+Totals                                                                              55
 
 Total Processing Time (hh:mm:ss) : 00:00:00
